@@ -1,0 +1,9 @@
+[package]
+name = "emoji64"
+description = "emoji64 is a tool to decode and encode base64 into Unicode based emoticons."
+version = "1.0.0"
+authors = ["Oliver Springer"]
+license = "GPL-3.0"
+readme = "README.md"
+
+[dependencies]
